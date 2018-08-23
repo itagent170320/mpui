@@ -1,0 +1,14 @@
+.logo{
+    text-align: center;
+    margin: 10px 0;
+}
+.logo .image{
+    display: block;
+    width: 260rpx;
+    height: 260rpx;
+    margin: 0 auto;
+}
+.logo .text{
+  padding: 10px 0;
+  display: inline-block;
+}
